@@ -1,0 +1,44 @@
+/* the overlayed element */
+body {
+	padding:50px 80px;
+	font-family:"Lucida Grande","bitstream vera sans","trebuchet ms",sans-serif,verdana;
+}
+
+/* get rid of those system borders being generated for A tags */
+a:active {
+  outline:none;
+}
+
+:focus {
+  -moz-outline-style:none;
+}
+
+.apple_overlay {
+	
+	/* initially overlay is hidden */
+	display:none;
+	
+	/* growing background image */
+	background-image:url(/img/appleoverlaybg.png);
+	
+	/* 
+		width after the growing animation finishes
+		height is automatically calculated
+	*/
+	width:300px;
+	
+	/* some padding to layout nested elements nicely  */
+	padding:5px;
+
+	/* a little styling */	
+	font-size:11px;
+}
+
+/* default close button positioned on upper right corner */
+.apple_overlay .close {
+	background-image:url(/img/closeoverlay.png);
+	position:absolute; right:0px; top:0px;
+	cursor:pointer;
+	height:35px;
+	width:35px;
+}

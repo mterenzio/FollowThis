@@ -1,0 +1,29 @@
+body {background-color: #ffffff; font-family: sans-serif;}
+h1 {font-size: 150%; font-weight: bold;}
+#logo {float: left;}
+nav {text-align: right; margin-right: 50px; margin-left: 450px; background-color: #D3D3D3; padding: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;}
+header {height: 70px;}
+#main {margin: 20px; padding: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px; background-color: #D3D3D3;}
+footer {clear: both; margin-top: 40px; text-align: center; font-size: 110%; font-weight: bold;}
+
+
+#home {height: 400px; padding: 20px; margin-top: 10px; margin-bottom: 10px; margin-left: auto; margin-right: auto; -moz-border-radius: 150px; -webkit-border-radius: 150px; min-width: 400px; max-width: 600px;}
+#ialert {float: left; padding: 0px 20px 20px 20px;}
+.headlines {text-align: left; padding: 5px; background-color: #ffffff; width: 90%; height: 90%;}
+.tagline {background-color: #ffffff; font-size: 200%; font-weight: bold; -moz-border-radius: 90px; -webkit-border-radius: 90px; padding: 20px; margin-left: 10px;} 
+.center {text-align: center;}
+form {padding: 5px; border: 1px solid #73A4DF; margin-top: 0px; margin-bottom: 0px; margin-left: auto; margin-right: auto; background:#D3E1FE; -moz-border-radius: 50px; -webkit-border-radius: 50px; min-width: 400px; max-width: 600px;}
+text {border: 1px solid #879A45; padding: 3px; font-size: 110%; font-weight: bold; -moz-border-radius: 10px; -webkit-border-radius: 10px;}
+form.alert { text-align: center;}
+submit {border: 1px solid #879A45; background-color: #fff; padding: 5px; font-size: 110%; font-weight: bold;}
+input {border: 1px solid #879A45; background-color: #fff; padding: 5px; font-size: 110%; font-weight: bold;}
+img.logo {border: 0; float: left; padding: 0px 10px 0px 0px;}
+img.icon {border: 0;} 
+.formelement {padding: 3px 3px 3px 3px;}
+.formerror {color: red; text-align: center;}
+.warning {color: red; font-size: 130%; font-weight: bold;}
+label {display: block; font-size: 120%; font-weight: bold; padding: 5px 0px 0px 0px;}
+textarea {border: 1px solid #999999; padding: 5px; font-family: sans-serif; -moz-border-radius: 10px; -webkit-border-radius: 10px; max-width: 800px; max-height: 800px;}
+.dropdown {font-size: 100%; font-weight: bold; padding: 2px;}
+.message {font-size: 120%; font-weight: bold; text-align: center; padding: 20px; border: 1px solid #73A4DF; margin-top: 10px; margin-bottom: 10px; margin-left: auto; margin-right: auto; background:#D3E1FE; -moz-border-radius: 50px; -webkit-border-radius: 50px; min-width: 400px; max-width: 600px;}
+

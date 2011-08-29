@@ -1,0 +1,18 @@
+html, body {font-family: sans-serif; margin: 0px; height: 100%; background:#fff;}
+h1 {font-size: 120%; font-weight: bold;}
+#container {margin-right: auto; margin-left: auto; min-height:100%; width: 100%; position:relative; background:#fff;}
+#logo {float: left;}
+nav {box-shadow: 0px 1px 3px #707070; text-align: right; margin-right: 50px; margin-left: 450px; margin-top: 10px; background-color: #ffffff; padding: 15px; -moz-border-radius: 5px; -webkit-border-radius: 5px; border: 2px solid; border-color: #CFCFCF;}
+#header {-moz-border-radius: 0px 0px 10px 10px; -webkit-border-radius: 0px 0px 10px 10px; box-shadow: 0px 1px 3px #707070; padding: 10px; height: 70px; background-color: #F5F5F5; border-bottom: 3px solid; border-color: #FD444D; width: auto;  }
+#main {width: auto; padding: 10px; background-color: #fff; margin: 0px; margin-top: 20px; padding-bottom:60px; }
+#footer {height:25px; bottom:0; position:absolute; text-align: center; font-size: 110%; font-weight: bold;  padding: 15px 0px 15px 0px; width: 100%; background-color: #F5F5F5; border-top: 3px solid; border-color: #FD444D;}
+.message {text-align: center; font-size: 120%; font-weight: bold; padding: 20px;}
+.smallmessage {text-align: center; font-size: 100%; font-weight: bold; padding: 10px;}
+.form {text-align: center; font-size: 120%; font-weight: bold; padding: 20px;}
+.formelement {padding: 10px;}
+.center {text-align: center;}
+input.submit {border: 1px solid #879A45; background-color: #fff; padding: 5px; font-size: 110%; font-weight: bold;}
+input.text {border: 1px solid #879A45; padding: 3px; font-size: 90%; font-weight: bold; -moz-border-radius: 10px; -webkit-border-radius: 10px;}
+.formerror {color: red;}
+.warning {color: red; font-size: 130%; font-weight: bold;}
+.grey {color: grey;}
