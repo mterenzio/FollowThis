@@ -1,5 +1,6 @@
 <?php
 
+
 class Alert extends CI_Controller {
 
 	function __construct()
