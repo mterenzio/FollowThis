@@ -1,0 +1,472 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns:rnews=http://iptc.org/std/rNews/2011-05-17#>
+<head>
+    <meta http-equiv="Content-Type" content="text/ charset=UTF-8">
+    <title>Frank Fay: Way We Were</title>
+    <script type="text/javascript" src="/javascript/jquery.js"></script>
+    <script src="http://code.jquery.com/jquery-1.6.min.js"></script>
+    <script type="text/javascript" src="/javascript/thickbox.js"></script>
+    <script type="text/javascript" src="/javascript/swfobject.js"></script>
+    <script type="text/javascript" src="/javascript/animatedcollapse.js"></script>    
+    <script type="text/javascript" src="/javascript/ui.js"></script>
+    <script src="/AC_OETags.js" language="text/javascript"></script>    
+    <script src="/pageear.js" type="text/javascript"></script>
+      <link rel="stylesheet" type="text/css" href="/gallery/jquery.ad-gallery.css">
+  <script type="text/javascript" src="/gallery/jquery.ad-gallery.js"></script>
+    <link rel="stylesheet" href="/stylesheets/style.css" type="text/css">
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="/rss" />  
+	<link rel="shortcut icon" HREF="favicon.ico">
+<script type="text/javascript">
+animatedcollapse.addDiv('adslider','fade=1,hide=0,height=300px,speed=1000')
+animatedcollapse.ontoggle=function($, divobj, state){ //fires each time a DIV is expanded/contracted
+	//$: Access to jQuery
+	//divobj: DOM reference to DIV being expanded/ collapsed. Use "divobj.id" to get its ID
+	//state: "block" or "none", depending on state
+}
+animatedcollapse.init();
+function hideSlider() { 
+    setTimeout("animatedcollapse.hide('adslider')",9000); 
+}
+function showSlider() { 
+    animatedcollapse.show('adslider');
+        clearTimeout(myTimer);
+} 
+function hideSliderNow() { 
+    setTimeout("animatedcollapse.hide('adslider')",9000); 
+}
+function clearTimer() { 
+    clearTimeout(myTimer);
+}
+function toggleSlider() { 
+    animatedcollapse.toggle('adslider');
+        clearTimeout(myTimer);
+}
+function DHTMLSound(surl) {
+  document.getElementById("dummyspan").innerHTML=
+    "<embed src='"+surl+"' hidden=true autostart=true loop=false>";
+}
+function setCookie(name,value,days) {
+    if (days) {
+        var date = new Date();
+        date.setTime(date.getTime()+(days*24*60*60*1000));
+        var expires = "; expires="+date.toGMTString();
+    }
+    else var expires = "";
+    document.cookie = name+"="+value+expires+"; path=/";
+}
+function getCookie(name) {
+    var nameEQ = name + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0;i < ca.i++) {
+        var c = ca[i];
+        while (c.charAt(0)==' ') c = c.substring(1,c.length);
+        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+    }
+    return 
+}
+function runBBTester(adcookie) {
+if (getCookie(adcookie) == null) {
+setCookie(adcookie, 'true', 1);
+hideSlider();
+} else {
+$('#adslider').hide();
+//alert('found cookie');
+}
+}
+</script>
+</head>
+<body id="body" about="http://www.thehour.com/story/511535/frank-fay-way-we-were" typeof="rnews:Article"><script type="text/javascript">
+//bug fix for iframed ads
+//function fixads() {
+//var f = document.getElementsByTagName('iframe');
+//for (var i=0; i<f. i++) f[i].src = f[i].
+//}
+//window.onload =  
+</script>
+<!--<table id="alert"><tr><td>
+</td><td>-->
+</td><td></td></tr>
+</table>
+
+<!--HEADER-->
+    <table id="header"><tr><td><div id="leaderad">
+<!--/* OpenX Javascript Tag v2.8.5 */-->
+
+<!--/*
+  * The backup image section of this tag has been generated for use on a
+  * non-SSL page. If this tag is to be placed on an SSL page, change the
+  *   'http://tech.thehour.com/www/delivery/...'
+  * to
+  *   'https://tech.thehour.com/www/delivery/...'
+  *
+  * This noscript section of this tag only shows image banners. There
+  * is no width or height in these banners, so if you want these tags to
+  * allocate space for the ad before it shows, you will need to add this
+  * information to the <img> tag.
+  *
+  * If you do not want to deal with the intricities of the noscript
+  * section, delete the tag (from <noscript>... to </noscript>). On
+  * average, the noscript tag is called from less than 1% of internet
+  * users.
+  */-->
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://tech.thehour.com/www/delivery/ajs.php':'http://tech.thehour.com/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=2");
+   document.write ('&#38;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&#38;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&#38;charset='+document.charset : (document.characterSet ? '&#38;charset='+document.characterSet : ''));
+   document.write ("&#38;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&#38;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&#38;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://tech.thehour.com/www/delivery/ck.php?n=aa4bfc27&#38;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://tech.thehour.com/www/delivery/avw.php?zoneid=2&#38;cb=INSERT_RANDOM_NUMBER_HERE&#38;n=aa4bfc27' border='0' alt='' /></a></noscript>
+
+
+</div></td><td>
+</td></tr>
+	</table>
+<div id="supermaster">
+
+<table id="superheader">
+  <tr>
+
+    
+    <td id="superheader-left">
+
+<img src="/images/weather/mcloudyn.png" alt="weathericon" height="60" width="60" align="left" class="weathericon">
+     <div id="currenttemp"><b>68.0&#176;</b>  <a href="http://00676c3.netsolhost.com/weather/">Complete Forecast</a></div>
+</td> 
+
+ <td id="superheader-mid">
+
+	<a href="/e-edition/">Check out our E-Edition - "as it appears in print"</a>
+   
+ </td>
+    
+    <td id="superheader-right">
+     <p>      <a href="/login.php?return=home&KeepThis=true&TB_iframe=true&height=400&width=600\"" class="thickbox">Login</a> | <a href="https://aspc1.newzware.com:8943/ss70/norwalk/sub/newstart/new_start_by_address.jsp">Subscribe to Print or Online</a>
+       </p>
+       
+    
+    
+
+       
+
+ </td>
+    </tr>
+</table>
+</div>
+<div id="master">	
+
+
+    <table id="subheader"><tr><td width="300">    <a href="/"><img src="http://storage.thehour.com/images/logo.gif" align="left" alt="The Hour"/></a></td><td width = '400'><form action="/search2.php" method="get"><input class="text" name ="q" type="text" size="33"> <input class="submit" type="submit" value="search" > | <a href="/rss"><img src="http://storage.thehour.com/images/rss.gif" /></a></form>
+   </td>
+<td>   <center><a href="http://twitter.com/TheHourNews"><img src="http://storage.thehour.com/images/twitter_logo.png" alt="twitter" /></a>&#160;<a href="http://www.facebook.com/pages/Hour-Newsroom/141923885872653"><img src="http://storage.thehour.com/images/facebook.png" alt="facebook" /></a>
+   </center>
+<center><b>Sign up for 
+<a href="/breaking-signup">Breaking News Alerts!</a>
+</b></center>  
+   </td></tr></table >
+<table id="navheader"><tr><td>
+		<div id='nav_top'>
+		
+		<div id='home_section' class='highlighted'><div class='left'></div><div class='right'></div><a href='/' onmouseover='current_section = "home_section"; selectMenu();' onmouseout='current_section = ""'>Home</a></div>
+<div id='news_section'><div class='left'></div><div class='right'></div><a href='/news/' onmouseover='current_section = "news_section"; selectMenu();' onmouseout='current_section = ""'>News</a></div>
+<div id='business_section'><div class='left'></div><div class='right'></div><a href='/business/' onmouseover='current_section = "business_section"; selectMenu();' onmouseout='current_section = ""'>Business</a></div>
+<div id='sports_section'><div class='left'></div><div class='right'></div><a href='/sports/' onmouseover='current_section = "sports_section"; selectMenu();' onmouseout='current_section = ""'>Sports</a></div>
+<div id='obits_section'><div class='left'></div><div class='right'></div><a href='http://www.legacy.com/obituaries/thehour/' onmouseover='current_section = "obits_section"; selectMenu();' onmouseout='current_section = ""'>Obituaries</a></div>
+
+<div id='features_section'><div class='left'></div><div class='right'></div><a href='/features/' onmouseover='current_section = "features_section"; selectMenu();' onmouseout='current_section = ""'>Entertainment/Features</a></div>
+<div id='community_section'><div class='left'></div><div class='right'></div><a href='/community/' onmouseover='current_section = "community_section"; selectMenu();' onmouseout='current_section = ""'>Community</a></div>
+<div id='opinion_section'><div class='left'></div><div class='right'></div><a href='/opinion/' onmouseover='current_section = "opinion_section"; selectMenu();' onmouseout='current_section = ""'>Opinion</a></div>
+
+<div id='photo_section'><div class='left'></div><div class='right'></div><a href='/photogalleries' onmouseover='current_section = "photo_section"; selectMenu();' onmouseout='current_section = ""'>Multimedia</a></div>
+<div id='classifieds_section'><div class='left'></div><div class='right'></div><a href='/classifieds/' onmouseover='current_section = "classifieds_section"; selectMenu();' onmouseout='current_section = ""'>Classifieds</a></div>
+<div id='services_section'><div class='left'></div><div class='right'></div><a href='/services/customerservices/' onmouseover='current_section = "services_section"; selectMenu();' onmouseout='current_section = ""'>Services</a></div>
+
+		
+		</div>
+	<div id='nav_bottom'>
+		<noscript>
+		<a href='/news/local/'>Local</a> <a href='/news/state/'>State</a> <a href='/news/nationworld/'>Nation & World</a> <a href='/obituaries/'>Obituaries</a>
+		</noscript>
+<script type="text/javascript" >current_section = "news_section"; selectMenu();</script>
+		</div>
+<!--/* OpenX Javascript Tag v2.8.7 */-->
+
+<!--/*
+  * The backup image section of this tag has been generated for use on a
+  * non-SSL page. If this tag is to be placed on an SSL page, change the
+  *   'http://tech.thehour.com/www/delivery/...'
+  * to
+  *   'https://tech.thehour.com/www/delivery/...'
+  *
+  * This noscript section of this tag only shows image banners. There
+  * is no width or height in these banners, so if you want these tags to
+  * allocate space for the ad before it shows, you will need to add this
+  * information to the <img> tag.
+  *
+  * If you do not want to deal with the intricities of the noscript
+  * section, delete the tag (from <noscript>... to </noscript>). On
+  * average, the noscript tag is called from less than 1% of internet
+  * users.
+  */-->
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://tech.thehour.com/www/delivery/ajs.php':'http://tech.thehour.com/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=65");
+   document.write ('&#38;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&#38;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&#38;charset='+document.charset : (document.characterSet ? '&#38;charset='+document.characterSet : ''));
+   document.write ("&#38;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&#38;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&#38;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://tech.thehour.com/www/delivery/ck.php?n=a7a19852&#38;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://tech.thehour.com/www/delivery/avw.php?zoneid=65&#38;cb=INSERT_RANDOM_NUMBER_HERE&#38;n=a7a19852' border='0' alt='' /></a></noscript>
+
+
+        </td></tr>
+     </table>
+
+<!--END HEADER-->
+
+
+
+
+
+
+
+	<table id="page">
+	<tr>
+	<td id="main-wide">
+	<div class="columntitle">
+	
+	</div>
+	<div class="headline"><h1 property="rnews:headline">
+	Frank Fay: Way We Were	</h1></div>
+	<div class="byline"><b>
+		</b></div>
+	<div class="byline-title"><b>
+		
+	</b></div>
+
+
+
+		<div class="storydate" property="rnews:dateCreated" content="2011-09-22">
+		Posted on 09/22/2011	</div>
+	<div>
+<div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#appId=173382442714842&#38;xfbml=1"></script><fb:like href="" send="false" width="450" show_faces="false" action="recommend" font="arial"></fb:like><div class="toolbar"><div id="fb-root"></div><a href="/emailstory/511535/?modal=true" class="thickbox">email</a> | <a href="/printstory/511535/" >print</a> | <a href=javascript:toggleembed('embed')>link to this article</a> | <script type="text/javascript" src="http://w.sharethis.com/button/sharethis.js#publisher=204f1a2d-27aa-456b-82e0-cb3382e2e40c&#38;type=website&#38;tracking=google"></script></div><br />
+	<div id="embed" style='display:none'>Copy and paste below into your page: <small>(<a href=javascript:toggle('embed')>close this pane</a>)</small><br /><br /><div id="embedpane">&#60;a href="http://www.thehour.com/story/511535/"&#62;Frank Fay: Way We Were&#60;/a&#62;</div></div>
+<!-- BEGIN GALLERY AD AND RELATED ITEMS -->
+<span id="storyad">
+<br />		
+<!--/* OpenX Javascript Tag v2.8.5 */-->
+
+<!--/*
+  * The backup image section of this tag has been generated for use on a
+  * non-SSL page. If this tag is to be placed on an SSL page, change the
+  *   'http://tech.thehour.com/www/delivery/...'
+  * to
+  *   'https://tech.thehour.com/www/delivery/...'
+  *
+  * This noscript section of this tag only shows image banners. There
+  * is no width or height in these banners, so if you want these tags to
+  * allocate space for the ad before it shows, you will need to add this
+  * information to the <img> tag.
+  *
+  * If you do not want to deal with the intricities of the noscript
+  * section, delete the tag (from <noscript>... to </noscript>). On
+  * average, the noscript tag is called from less than 1% of internet
+  * users.
+  */-->
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://tech.thehour.com/www/delivery/ajs.php':'http://tech.thehour.com/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=6");
+   document.write ('&#38;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&#38;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&#38;charset='+document.charset : (document.characterSet ? '&#38;charset='+document.characterSet : ''));
+   document.write ("&#38;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&#38;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&#38;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://tech.thehour.com/www/delivery/ck.php?n=af1d7803&#38;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://tech.thehour.com/www/delivery/avw.php?zoneid=6&#38;cb=INSERT_RANDOM_NUMBER_HERE&#38;n=af1d7803' border='0' alt='' /></a></noscript>
+
+<br  clear="all" />  
+    </span>
+<!-- END GALLERY AD AND RELATED ITEMS -->
+	<span property="rnews:body"><br />
+25 YEARS GO<br />
+<br />
+SEPT. 10, 1986 -- Robert Burgess, 15-year executive director of NEON, is given a 28 percent pay raise by the NEON board to $57,300 which will bring him into line with the equivalent administrator of the Stamford anti-poverty agency. The Common Council approves the second part of a payment of $70,000 to Robert and Kenneth Slapin and Stuart Kinzler for a 20- by 1,200-foot easement granted the city in 1981 through their 6.5-acre property at Connecticut Avenue and West Cedar Street. Barbara Orloff, formerly of Manchester, N.H., and currently director of the federal education program in the Stamford schools, is chosen to coordinate the 28-year-old Norwalk Head Start program handled for the past two years by Gretchen Whipple. Meyers Manufacturing Inc. sells its three-story plant at 17 High St., where it has been manufacturing handbags since 1931, for $1.75 million to Andrew Kydes, Robert DiNardo Jr. and Robert DiNardo Sr.Murray, Norman and Herbert Meyers will retain a five-year lease on the former Singer Sewing Machine plant. Merchants Bank & Trust Company Vice President Dolores Mockler and Trust Officer Betsy L. Hoffman graduate with the 30thclass of the New England School of Banking. Johanna Bertram and Vivian Soltis retire from Merchants Bank after 39 and 30 years, respectively. Louis D'Orso of Norwalk receives the Honey Russell Award for his work from the Hot Stove League of professional baseball scouts during the annual luncheon at Skipper's Restaurant.<br />
+<br />
+ SEPT. 11 -- State Rep. Julie Belaga of Westport wins the Republican gubernatorial . . . <br /><br /><a href="http://www.thehour.com/story/511535/2/frank-fay-way-we-were">&#187; continued on next page &#187;</a></span>	</div>
+	<br /><br />
+		<br /><br />
+	<div id="commentbox">
+	 <b>COMMENTING RULES:</b> To encourage an open exchange of ideas in The Hour community, we are pleased to allow readers to post comments following stories appearing on this website. By posting a comment, you are agreeing to our <a href="http://www.thehour.com/services/tos/">Terms of Website Use</a>. Please be aware that all comments will include the author's full name and town of residency, so comment responsibly. Please email us at <a href="mailto:news@thehour.com">news@thehour.com</a> if you wish to report any comments that you feel violate the terms of use policy.<br /><br />  
+	</div>
+	<div>
+	<h3>You must be registered and logged in to comment on stories. <a href="http://www.thehour.com/login.php?return=story&storyid=511535&headline=Frank+Fay%3A+Way+We+Were&KeepThis=true&TB_iframe=true&height=400&width=600" class="thickbox">Login</a> or <a href="/register/?storyid=511535&headline=Frank+Fay%3A+Way+We+Were">Register now!</a></h3><br /><br />	<a name="comments"></a>
+    <div class="comments"><div style="margin-left: 0"><div class="commentchildren">"SEPT. 10, 1986 -- Robert Burgess, 15-year executive director of NEON, is given a 28 percent pay raise by the NEON board to $57,300 which will bring him into line with the equivalent administrator of the Stamford anti-poverty agency."<br />
+<br />
+A 28% raise for a non-profit that is supposed to benefit young kids? Right. $57,300 at that time was $150,000 today. A director in another city, which served 10 times the amount of kids than Norwalk, made more than Burgess and it really got under his skin so he pushed through the raise - just like he does in politics. Did he take the job as a service to the community or to make money? These are supposed to be jobs of the highest ideal to inspire young people, but looking back we see the truth about that community service, but most who serve were put there or trained by him. And we can only surmise why so little has ever been accomplished in this community because its self-appointed leaders don't want or know how to produce real accomplishment, just token accomplishment - or it would end their feed at the public trough. But saddest of all, in the winter of his discontent, this guy thinks he is the Marshall of Tombstone, stopping fights and rowdies with a gun. <br />
+<br /><br /><b>Posted by: </b>Pike Bishop - Norwalk, CT | Sep 23, 2011<br /></div></div><br /><br />    </div>
+	</div>
+	</td>
+	<td width="300" id="util">
+<div>
+	<iframe id="deal" src="http://dailydeal.thehour.com/widgets/frontpage" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" vspace="0" hspace="0" ></iframe>
+</div>
+<!--/* OpenX Javascript Tag v2.8.7 */-->
+
+<!--/*
+  * The backup image section of this tag has been generated for use on a
+  * non-SSL page. If this tag is to be placed on an SSL page, change the
+  *   'http://tech.thehour.com/www/delivery/...'
+  * to
+  *   'https://tech.thehour.com/www/delivery/...'
+  *
+  * This noscript section of this tag only shows image banners. There
+  * is no width or height in these banners, so if you want these tags to
+  * allocate space for the ad before it shows, you will need to add this
+  * information to the <img> tag.
+  *
+  * If you do not want to deal with the intricities of the noscript
+  * section, delete the tag (from <noscript>... to </noscript>). On
+  * average, the noscript tag is called from less than 1% of internet
+  * users.
+  */-->
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://tech.thehour.com/www/delivery/ajs.php':'http://tech.thehour.com/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=69");
+   document.write ('&#38;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&#38;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&#38;charset='+document.charset : (document.characterSet ? '&#38;charset='+document.characterSet : ''));
+   document.write ("&#38;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&#38;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&#38;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://tech.thehour.com/www/delivery/ck.php?n=aaacdffb&#38;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://tech.thehour.com/www/delivery/avw.php?zoneid=69&#38;cb=INSERT_RANDOM_NUMBER_HERE&#38;n=aaacdffb' border='0' alt='' /></a></noscript>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+	//When page loads...
+	$(".tab_content").hide(); //Hide all content
+	$("ul.tabs li:first").addClass("active").show(); //Activate first tab
+	$(".tab_content:first").show(); //Show first tab content
+
+	//On Click Event
+	$("ul.tabs li").click(function() {
+
+		$("ul.tabs li").removeClass("active"); //Remove any "active" class
+		$(this).addClass("active"); //Add "active" class to selected tab
+		$(".tab_content").hide(); //Hide all tab content
+
+		var activeTab = $(this).find("a").attr("href"); //Find the href attribute value to identify the active tab + content
+		$(activeTab).fadeIn(); //Fade in the active ID content
+		return 
+	});
+});
+</script>
+<br clear="all" />
+<ul class="tabs">
+    <li><a href="#tab1">Most Read</a></li>
+    <li><a href="#tab2">Most Comments</a></li>
+    <li><a href="#tab3">Most Emails</a></li>
+</ul>
+
+<div class="tab_container">
+    <div id="tab1" class="tab_content">
+        <!--Content-->
+       <div class="smallheadline">1. <a href="http://www.thehour.com/story/511531/melee-ends-in-arrest-of-5-norwalkers">Melee ends in arrest of 5 Norwalkers</a></div><br /><div class="smallheadline">2. <a href="http://www.thehour.com/story/511476/wilton-girls-soccer-coach-put-on-leave-for-misconduct">Wilton girls soccer coach put on leave for misconduct</a></div><br /><div class="smallheadline">3. <a href="http://www.thehour.com/story/511728/bridgeport-man-with-gun-arrested-following-vigil-for-slain-norwalk-resident">Bridgeport man with gun arrested following vigil for slain Norwalk resident</a></div><br /><div class="smallheadline">4. <a href="http://www.thehour.com/story/511520/zoning-panel-oks-plan-for-ice-rink-in-norwalk">Zoning panel OKs plan for ice rink in Norwalk</a></div><br /><div class="smallheadline">5. <a href="http://www.thehour.com/story/511532/norwalk-police-blotter">Norwalk police blotter</a></div><br />        
+    </div>
+    <div id="tab2" class="tab_content">
+       <!--Content-->
+       <div class="smallheadline">1. <a href="http://www.thehour.com/story/511520/zoning-panel-oks-plan-for-ice-rink-in-norwalk">Zoning panel OKs plan for ice rink in Norwalk</a></div><br /><div class="smallheadline">2. <a href="http://www.thehour.com/story/511531/melee-ends-in-arrest-of-5-norwalkers">Melee ends in arrest of 5 Norwalkers</a></div><br /><div class="smallheadline">3. <a href="http://www.thehour.com/story/511498/norwalk-man-arrested-in-taylor-ave-shootings">Norwalk man arrested in Taylor Ave. shootings</a></div><br /><div class="smallheadline">4. <a href="http://www.thehour.com/story/511761/oyster-shell-park-1-4-million-plan-would-create-grading-creating-paths-lighting-and-landscaping">Oyster Shell Park $1.4 million plan would create grading, creating paths, lighting and landscaping</a></div><br /><div class="smallheadline">5. <a href="http://www.thehour.com/story/511570/two-city-men-arrested-after-fight-over-politics">Two city men arrested after fight over politics</a></div><br />    </div>
+    <div id="tab3" class="tab_content">
+       <!--Content-->
+       <div class="smallheadline">1. <a href="http://www.thehour.com/story/511520/zoning-panel-oks-plan-for-ice-rink-in-norwalk">Zoning panel OKs plan for ice rink in Norwalk</a></div><br /><div class="smallheadline">2. <a href="http://www.thehour.com/story/511476/wilton-girls-soccer-coach-put-on-leave-for-misconduct">Wilton girls soccer coach put on leave for misconduct</a></div><br /><div class="smallheadline">3. <a href="http://www.thehour.com/story/511846/train-collides-with-vehicle-at-glenbrook-crossing">Train collides with vehicle at Glenbrook crossing</a></div><br /><div class="smallheadline">4. <a href="http://www.thehour.com/story/511790/emcor-going-pink-again">EMCOR going pink again</a></div><br /><div class="smallheadline">5. <a href="http://www.thehour.com/story/511648/owners-closing-conn-tavern-dating-back-to-1740">Owners closing Conn. tavern dating back to 1740</a></div><br />    </div>    
+</div>
+<br clear="all" />
+  
+    </td>
+	</tr>
+	</table>
+
+<div>
+</div>
+
+    <!--FOOTER-->
+    <div id="footer">&#169; 2011 The Hour Publishing Co.<br /><br/><a href="/services/tos/">Terms of Service</a> | <a href="/services/directory/">Contact Us</a> | <a href="https://aspc1.newzware.com/ss/norwalk/sub/jsp/subscr_login.jsp">Subscriber Services</a> | <a href="/services/customerservices">Customer Services</a> | <a href="/services/advertising">Advertise with us</a> | <a href="/history/">The Hour History</a> 
+    </div>
+    <!--END FOOTER-->
+</div>
+<script type="text/javascript">
+_qoptions={
+qacct:"p-20vpx2QoUdNjs"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<a href="http://www.quantcast.com/p-20vpx2QoUdNjs" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-20vpx2QoUdNjs.gif" style="display: " border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+<!-- End Quantcast tag -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-552618-1");
+pageTracker._setDomainName("none");
+pageTracker._setAllowLinker(true);
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<script type="text/javascript">
+//thick box tracker
+    //<![CDATA[
+    function trackThickbox(caption, url, imageGroup) {
+        try {
+            pageTracker._trackPageview(url);
+        } catch (e) { }
+    }
+    //]]>
+</script> 
+<script type="text/javascript">
+//thick box tracker
+    //<![CDATA[
+    function trackSlideshow() {
+        try {
+        	//alert(document.URL+'?track=slideshow');
+        	//document.getElementById("ac60720b").src = document.getElementById("ac60720b").src
+        	//document.getElementById("ac60720b").contentWindow.location.reload();
+            pageTracker._trackPageview(document.URL+'?track=slideshow');
+            //alert(document.URL+'?track=slideshow');
+            //alert(ssevents);
+        } catch (e) { }
+    }
+    //]]>
+</script> 
+</body>
+</html>

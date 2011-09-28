@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"  
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns="http://usefulinc.com/ns/doap#">
+  <Project rdf:about="http://github.com/WebOrganics/TransFormr">
+    <name>Microformat Transformr</name>
+    <shortname>Transformr</shortname>
+    <homepage rdf:resource="http://github.com/WebOrganics/TransFormr"/>
+    <created>2008-05-10</created>
+    <description>The goal is to transform data into information and information into insight.</description>
+		<maintainer>
+			<foaf:Person>
+				<foaf:name>Martin McEvoy</foaf:name>
+				<foaf:homepage rdf:resource="http://weborganics.co.uk/" />
+			</foaf:Person>
+		</maintainer>
+		<maintainer>
+			<foaf:Person>
+				<foaf:name>Matthias Pfefferle</foaf:name>
+				<foaf:homepage rdf:resource="http://pfefferle.org" />
+			</foaf:Person>
+		</maintainer>
+		<release>
+			<Version>
+				<name>Version 2.3</name>
+				<revision>2.3</revision>
+				<created>2010-07-03</created>
+			</Version>
+		</release>
+		<release>
+			<Version>
+				<name>Version 2.2</name>
+				<revision>2.2</revision>
+				<created>2010-06-21</created>
+			</Version>
+		</release>
+		<release>
+			<Version>
+				<name>Version 2.1</name>
+				<revision>2.1</revision>
+				<created>2010-06-07</created>
+			</Version>
+		</release>
+		<release>
+			<Version>
+				<name>Version 2.0</name>
+				<revision>2.0</revision>
+				<created>2010-06-04</created>
+			</Version>
+		</release>
+		<release>
+			<Version>
+				<name>Version 1.3</name>
+				<revision>1.3</revision>
+				<created>2010-05-20</created>
+			</Version>
+		</release>
+		<release>
+			<Version>
+				<name>Version 1.2</name>
+				<revision>1.2</revision>
+				<created>2010-05-13</created>
+			</Version>
+		</release>
+		<release>
+			<Version>
+				<name>Version 1.1</name>
+				<revision>1.1</revision>
+				<created>2010-05-11</created>
+			</Version>
+		</release>
+		<release>
+			<Version>
+				<name>Version 1.0</name>
+				<revision>1.0</revision>
+				<created>2010-05-07</created>
+			</Version>
+		</release>
+		<release>
+			<Version>
+				<name>Version 0.6.2</name>
+				<revision>0.6.2</revision>
+				<created>2010-04-26</created>
+			</Version>
+		</release>
+  </Project>
+</rdf:RDF>

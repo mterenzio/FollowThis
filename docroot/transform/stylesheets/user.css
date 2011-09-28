@@ -1,0 +1,211 @@
+body {
+	font: 14px Verdana, Arial, sans-serif;
+	margin:0 auto;
+	padding:0;
+	text-align:center;
+	width:770px;
+	background: #fff url('../images/bg_body.gif') 0 0 repeat-x;
+	color: #666;
+}
+h1 {
+	color:#679A06;
+	margin:0px;
+	padding:5px 10px 10px;
+}
+h2, h3, legend {
+	margin:0px;
+}
+.content h2 {
+	clear:both; 
+	display:block;
+}
+p{
+  line-height:10pt;
+}
+a {
+	color:#679A06;
+	text-decoration:none;
+}
+a:hover {
+	background-color:#ECF6D2;
+}
+h1 a:hover { background-color:transparent;}
+
+.commands ul, .commands li {
+  list-style-type:none;
+} 
+ul, li {
+  list-style-type:square;
+}
+ol, ul, li { padding-left: 0px;}  
+ol li { 
+	border: 1px dotted #eee; 
+	padding: 3px 0; 
+	background-color:#FCFCFC; 
+	margin: 1px 0;
+}
+.hslice {
+	border:1px solid #679A06;
+	margin-top:30px;
+	padding:20px;
+	text-align:left;
+	
+	-moz-border-radius-bottomleft:5px;
+	-moz-border-radius-bottomright:5px;
+	-moz-border-radius-topleft:5px;
+	-moz-border-radius-topright:5px;
+	-moz-box-shadow: 0 2px 5px #CCCCCC;
+	
+	-webkit-border-bottom-left-radius:5px;
+	-webkit-border-bottom-right-radius:5px;
+	-webkit-border-top-left-radius:5px;
+	-webkit-border-top-right-radius:5px;
+	-webkit-box-shadow: 0 2px 5px #CCCCCC;
+}
+.heading { clear: both; padding-top: 5px; }
+.homepage {
+	float:right;
+	margin:0pt;
+	padding:0pt;
+}
+.subtitle {
+	color:#679A06;
+	margin:0px;
+	padding:5px;
+	font-variant:small-caps;
+}
+.subtitle a {
+	color:#679A06;
+}
+.errors {
+	border:1px solid #AA0000;
+	margin-bottom:10px;
+	padding:10px;
+	background-color: #FF9F9F;
+	padding:2px;
+	
+	-moz-border-radius-bottomleft:3px;
+	-moz-border-radius-bottomright:3px;
+	-moz-border-radius-topleft:3px;
+	-moz-border-radius-topright:3px;
+	
+	-webkit-border-bottom-left-radius:3px;
+	-webkit-border-bottom-right-radius:3px;
+	-webkit-border-top-left-radius:3px;
+	-webkit-border-top-right-radius:3px;
+}
+.errors h4, p.error {
+	color:#AA0000;
+}
+a img {
+	border:0px; 
+	vertical-align: middle;
+}
+.butt {
+	background-color:#F1EDED;
+	border:1px solid #679A06;
+	float:right;
+	margin-top:-1px;
+	padding:0 5px 5px;
+	
+	-moz-border-radius-bottomleft:5px;
+	-moz-border-radius-bottomright:5px;
+	-moz-box-shadow:0 2px 2px #CCCCCC;
+	
+	-webkit-border-bottom-left-radius:5px;
+	-webkit-border-bottom-right-radius:5px;
+	-webkit-box-shadow:0 2px 2px rgba(0,0,0,.4);
+}
+code {
+  background-color:#F9F9F9;
+}
+tt, code, kbd, samp {
+  font-family:-moz-fixed;
+}
+legend{
+	font-size:20px;
+	text-align:left;
+	padding-top:10px;
+}
+fieldset {border:0;margin:0;}
+fieldset p {text-align:center;}
+form {	
+	background-color:transparent;
+	border:1px solid #679A06;
+	padding:0 5px;
+	margin:30px auto;
+	
+	-moz-border-radius-bottomleft:5px;
+	-moz-border-radius-bottomright:5px;
+	-moz-border-radius-topleft:5px;
+	-moz-border-radius-topright:5px;
+	-moz-box-shadow: 0 2px 5px #CCCCCC;
+	
+	-webkit-border-bottom-left-radius:5px;
+	-webkit-border-bottom-right-radius:5px;
+	-webkit-border-top-left-radius:5px;
+	-webkit-border-top-right-radius:5px;
+	-webkit-box-shadow: 0 2px 5px #CCCCCC;
+}
+li {list-style-type:none;}
+#transformr {
+	clear:both;
+	margin-bottom:10px;
+	margin-left:5px;
+	text-align:left;
+}
+#transformr img { position:relative; float:left; margin:0 15px; }
+#transformr p { font-size: 10px; }
+input.Valid {
+	background-color: #B8F5B1;
+}
+input.Invalid {
+	background-color: #FF9F9F;
+}
+input.Focus, #text.Focus {
+	background-color: #FFFFDD;
+}
+input.Reset, #text.Reset {
+	background-color: #FFFFFF;
+}
+p.hidden {
+	display:none;
+}
+.hide-button {
+	color:#AA0000;
+	float:left;
+	margin-left:5px;
+}
+.intro { text-align:left;} 
+.pad { padding:5px 0 0 0; }
+
+textarea#text {
+	height:200px;
+	margin-bottom:5px;
+	margin-top:-5px;
+	width:710px;
+    -moz-box-shadow: inset 0 2px 4px rgba(0,0,0,.4);
+    -webkit-box-shadow: inset 0 2px 4px rgba(0,0,0,.4);
+    box-shadow: inset 0 2px 4px #000;
+}
+select#type, select#output {
+	width:210px;
+}
+button#submit {width: 100px;}
+
+input#url {
+  width:85%;
+  -moz-box-shadow: inset 0 2px 4px rgba(0,0,0,.4);
+  -webkit-box-shadow: inset 0 2px 4px rgba(0,0,0,.4);
+  box-shadow: inset 0 2px 4px #000;
+
+}
+#fork-me {
+	position: absolute;
+	left: 0;
+	top: 0;	
+}
+
+#fork-me a:hover {
+	background: transparent;
+}
